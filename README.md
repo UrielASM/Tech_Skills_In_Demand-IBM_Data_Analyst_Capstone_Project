@@ -1,4 +1,4 @@
-# Tech_Skills_In_Demand-IBM_Data_Analyst_Capstone_Project
+# Tech Skills In Demand
 
 This is a Python Project developed in the course named "IBM Data Analyst Capstone Project", final project of the Data Analyst Specialization by IBM, visit the link https://www.coursera.org/learn/ibm-data-analyst-capstone-project?specialization=ibm-data-analyst for more information.
 
